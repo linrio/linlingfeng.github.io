@@ -1,8 +1,8 @@
 
 ---
 layout:     post
-title:      second
-subtitle:   second blog
+title:      Cache Trashing
+subtitle:   Explaining the Cache Trashing
 date:       2019-06-06
 author:     Lin
 header-img: img/post-bg-ios9-web.jpg
