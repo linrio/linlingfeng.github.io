@@ -102,13 +102,25 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
+        title: "简书·Lin",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Apple ML",
+        href: "https://machinelearning.apple.com/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "MICRO"
+        href: "https://www.microarch.org/"
+    },{
+        title:  "dblp"
+        href: "https://dblp.uni-trier.de/"
+    },{
+        title:  "JMLR"
+        href: "http://www.jmlr.org/"
+    },{
+        title:  "AI.google"
+        href: "https://ai.google/"
     }
 ]
