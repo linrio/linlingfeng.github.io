@@ -108,16 +108,16 @@ friends: [
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     },{
-        title: "MICRO"
+        title: "MICRO",
         href: "https://www.microarch.org/"
     },{
-        title:  "dblp"
+        title:  "dblp",
         href: "https://dblp.uni-trier.de/"
     },{
-        title:  "JMLR"
+        title:  "JMLR",
         href: "http://www.jmlr.org/"
     },{
-        title:  "AI.google"
+        title:  "AI.google",
         href: "https://ai.google/"
     }
 ]
