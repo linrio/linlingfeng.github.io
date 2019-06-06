@@ -4,7 +4,7 @@ title:      Cache Trashing
 subtitle:   Explaining the Cache Trashing
 date:       2019-06-06
 author:     Lin
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/seaside-huizhou.jpg
 catalog: true
 tags:
     - second
