@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      cron guard service
-subtitle:   来自root 的进程对 CPU占用高解决方法
+title:      CPU占用高的解决方法
+subtitle:   root 的进程占用CPU很高，实际上是cron guard service
 date:       2019-06-10
 author:     Lin
 header-img: img/seaside-huizhou.jpg
