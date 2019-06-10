@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     
 github_username:    linrio
 facebook_username:  
-jianshu_username:   b694b95f9b4e   
+jianshu_username:   a2fb2cb82924   
 #twitter_username:   
 
 
@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "简书·Lin",
-        href: "http://www.jianshu.com/u/b694b95f9b4e"
+        href: "http://www.jianshu.com/u/a2fb2cb82924"
     },{
         title: "Apple ML",
         href: "https://machinelearning.apple.com/"
